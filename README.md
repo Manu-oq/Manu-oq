@@ -1,24 +1,22 @@
-# 👋 Hi, I'm Manuel Ortega
+# Hi, I'm Manuel Ortega
 
 **Computer Civil Engineer** | Backend & AI Developer
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-%F0%9F%92%BC-brightgreen?style=flat-square)](https://www.linkedin.com/in/manuel-alexander-ortega-qui%C3%B1ones-186ab7297/)
-
-📍 Temuco, Chile
+*Open to work — Temuco, Chile*
 
 ---
 
 ## About Me
 
-Computer Civil Engineer from **Universidad Autónoma de Chile**, first generation of this program. I design and build backend systems with a strong focus on AI integration, geospatial data processing, and clean architecture.
+Computer Civil Engineer from **Universidad Autonoma de Chile**, first generation of this program. I design and build backend systems with a strong focus on AI integration, geospatial data processing, and clean architecture.
 
-My thesis — **Ruta Viva** — is a smart tourism platform for La Araucanía Region that combines semantic vector search, geospatial routing, and LLM-powered itinerary generation.
+My thesis — **Ruta Viva** — is a smart tourism platform for La Araucania Region that combines semantic vector search, geospatial routing, and LLM-powered itinerary generation.
 
 Currently building my career and open to opportunities where I can contribute as a Backend Developer, AI Engineer, or Fullstack Developer — I care about building things that solve real problems, regardless of the label.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 Python | FastAPI | Django | Django REST | Laravel | PHP | Celery
@@ -37,20 +35,20 @@ Docker | Git | GitHub | WebSockets | MQTT | Clean Architecture
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-> ⚠️ Core repositories are currently private — my thesis is applying for research funding and judicial code is under patent process.
+> Core repositories are currently private — my thesis is applying for research funding and judicial code is under patent process.
 
-### Ruta Viva — Smart Tourism Platform 🏔️
+### Ruta Viva — Smart Tourism Platform
 *Degree Thesis · 2026*
 
-Intelligent itinerary recommendation system for La Araucanía. Curation of 300+ Points of Interest, dynamic itinerary generation based on weather, geolocation, and user preferences. Conversational assistant "Ara" with multi-agent delegation, slot detection, and streaming response generation.
+Intelligent itinerary recommendation system for La Araucania. Curation of 300+ Points of Interest, dynamic itinerary generation based on weather, geolocation, and user preferences. Conversational assistant "Ara" with multi-agent delegation, slot detection, and streaming response generation.
 
 `FastAPI` `PostgreSQL` `PostGIS` `pgvector` `OpenAI` `DeepSeek` `Docker` `OSRM` `Clean Architecture` `Flutter`
 
 ---
 
-### PJPage — Court Resolution Automation ⚖️
+### PJPage — Court Resolution Automation
 *Corte de Apelaciones de Temuco · 2025–2026*
 
 Web application that automates legal resolution generation through AI. Replaced paper-based workflows with a digital voting system and LLM-powered document drafting. Major modernization for the Chilean judicial system.
@@ -59,25 +57,16 @@ Web application that automates legal resolution generation through AI. Replaced 
 
 ---
 
-### Replantea — IoT Smart Recycling Monitor ♻️
+### Replantea — IoT Smart Recycling Monitor
 *Professional Internship · 2025*
 
-Real-time monitoring platform for smart recycling containers. Distributed architecture with MQTT sensors, WebSocket dashboards, and asynchronous task processing. Monitors fill levels and generates alerts for collection optimization.
+Backend architecture for a smart recycling container monitoring platform. Built a distributed system with Django Channels for real-time WebSocket data, Redis for caching and pub/sub, and Celery for asynchronous task processing. Also contributed the project's landing page.
 
-`Django` `Django Channels` `MQTT` `Redis` `Celery` `Docker` `React` `PostgreSQL`
+`Django` `Django Channels` `Redis` `Celery` `Docker` `PostgreSQL`
 
 ---
 
-### Formi — Drag & Drop Form Builder 📝
-*Professional Internship · 2025*
-
-Advanced form management system with drag & drop builder, role-based access, Excel/Word export, and AWS S3 integration. Built with Laravel + React.
-
-`Laravel` `React` `TanStack Query` `dnd-kit` `AWS S3` `MySQL`
-
----
-
-### Numoto — E-Commerce Marketplace 🏪
+### Numoto — E-Commerce Marketplace
 *Professional Internship · 2025*
 
 Fullstack marketplace with product catalog, design customization, ordering system, and provider management. Django REST backend with JWT auth + React frontend with Mantine UI.
@@ -86,7 +75,7 @@ Fullstack marketplace with product catalog, design customization, ordering syste
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +87,7 @@ Fullstack marketplace with product catalog, design customization, ordering syste
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-dvuo%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:dvuo@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ortega-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manuel-alexander-ortega-qui%C3%B1ones-186ab7297/)
@@ -112,27 +101,25 @@ Fullstack marketplace with product catalog, design customization, ordering syste
 
 ---
 
-# 👋 Hola, soy Manuel Ortega
+# Hola, soy Manuel Ortega
 
-**Ingeniero Civil Informático** | Backend & AI Developer
+**Ingeniero Civil Informatico** | Backend & AI Developer
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-%F0%9F%92%BC-brightgreen?style=flat-square)](https://www.linkedin.com/in/manuel-alexander-ortega-qui%C3%B1ones-186ab7297/)
-
-📍 Temuco, Chile
+*Abierto a oportunidades laborales — Temuco, Chile*
 
 ---
 
-## Sobre Mí
+## Sobre Mi
 
-Ingeniero Civil Informático de la **Universidad Autónoma de Chile**, primera generación de esta carrera. Diseño y construyo sistemas backend con foco en integración de IA, datos geoespaciales y arquitectura limpia.
+Ingeniero Civil Informatico de la **Universidad Autonoma de Chile**, primera generacion de esta carrera. Diseno y construyo sistemas backend con foco en integracion de IA, datos geoespaciales y arquitectura limpia.
 
-Mi tesis — **Ruta Viva** — es una plataforma de turismo inteligente para La Araucanía que combina búsqueda semántica vectorial, enrutamiento geoespacial y generación de itinerarios con LLMs.
+Mi tesis — **Ruta Viva** — es una plataforma de turismo inteligente para La Araucania que combina busqueda semantica vectorial, enrutamiento geoespacial y generacion de itinerarios con LLMs.
 
-Actualmente construyendo mi carrera y abierto a oportunidades donde pueda contribuir como Backend Developer, AI Engineer o Fullstack Developer — me importa construir cosas que resuelvan problemas reales, más allá de la etiqueta del cargo.
+Actualmente construyendo mi carrera y abierto a oportunidades donde pueda contribuir como Backend Developer, AI Engineer o Fullstack Developer — me importa construir cosas que resuelvan problemas reales, mas alla de la etiqueta del cargo.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
 ### Backend
 Python | FastAPI | Django | Django REST | Laravel | PHP | Celery
@@ -151,56 +138,47 @@ Docker | Git | GitHub | WebSockets | MQTT | Clean Architecture
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-> ⚠️ Los repositorios principales están actualmente privados — la tesis está postulando a fondos de investigación y el código judicial se encuentra en proceso de patente.
+> Los repositorios principales estan actualmente privados — la tesis esta postulando a fondos de investigacion y el codigo judicial se encuentra en proceso de patente.
 
-### Ruta Viva — Plataforma de Turismo Inteligente 🏔️
-*Trabajo de Título · 2026*
+### Ruta Viva — Plataforma de Turismo Inteligente
+*Trabajo de Titulo · 2026*
 
-Sistema inteligente de recomendación de itinerarios para La Araucanía. Curación de más de 300 Puntos de Interés, generación dinámica de itinerarios basada en clima, geolocalización y preferencias del usuario. Asistente conversacional "Ara" con delegación multiagente, detección de slots y generación de respuestas en streaming.
+Sistema inteligente de recomendacion de itinerarios para La Araucania. Curacion de mas de 300 Puntos de Interes, generacion dinamica de itinerarios basada en clima, geolocalizacion y preferencias del usuario. Asistente conversacional "Ara" con delegacion multiagente, deteccion de slots y generacion de respuestas en streaming.
 
 `FastAPI` `PostgreSQL` `PostGIS` `pgvector` `OpenAI` `DeepSeek` `Docker` `OSRM` `Clean Architecture` `Flutter`
 
 ---
 
-### PJPage — Automatización de Resoluciones Judiciales ⚖️
+### PJPage — Automatizacion de Resoluciones Judiciales
 *Corte de Apelaciones de Temuco · 2025–2026*
 
-Aplicación web que automatiza la generación de resoluciones judiciales mediante IA. Reemplazó flujos de trabajo en papel por un sistema digital de votación y redacción de documentos con LLMs. Modernización significativa para el sistema judicial chileno.
+Aplicacion web que automatiza la generacion de resoluciones judiciales mediante IA. Reemplazo flujos de trabajo en papel por un sistema digital de votacion y redaccion de documentos con LLMs. Modernizacion significativa para el sistema judicial chileno.
 
 `React` `Laravel` `OpenAI API` `MySQL` `PHP` `MUI`
 
 ---
 
-### Replantea — Monitoreo IoT de Reciclaje Inteligente ♻️
-*Práctica Profesional · 2025*
+### Replantea — Monitoreo IoT de Reciclaje Inteligente
+*Practica Profesional · 2025*
 
-Plataforma de monitoreo en tiempo real para contenedores de reciclaje inteligentes. Arquitectura distribuida con sensores MQTT, dashboards WebSocket y procesamiento asíncrono. Monitorea niveles de llenado y genera alertas para optimización de recolección.
+Arquitectura backend para una plataforma de monitoreo de contenedores de reciclaje inteligentes. Construccion de sistema distribuido con Django Channels para datos en tiempo real via WebSocket, Redis para cache y pub/sub, y Celery para procesamiento asincrono. Contribucion de la landing page del proyecto.
 
-`Django` `Django Channels` `MQTT` `Redis` `Celery` `Docker` `React` `PostgreSQL`
-
----
-
-### Formi — Creador de Formularios Drag & Drop 📝
-*Práctica Profesional · 2025*
-
-Sistema avanzado de gestión de formularios con builder drag & drop, acceso basado en roles, exportación Excel/Word e integración con AWS S3. Construido con Laravel + React.
-
-`Laravel` `React` `TanStack Query` `dnd-kit` `AWS S3` `MySQL`
+`Django` `Django Channels` `Redis` `Celery` `Docker` `PostgreSQL`
 
 ---
 
-### Numoto — Marketplace E-Commerce 🏪
-*Práctica Profesional · 2025*
+### Numoto — Marketplace E-Commerce
+*Practica Profesional · 2025*
 
-Marketplace fullstack con catálogo de productos, personalización de diseños, sistema de pedidos y gestión de proveedores. Backend Django REST con autenticación JWT + frontend React con Mantine UI.
+Marketplace fullstack con catalogo de productos, personalizacion de disenos, sistema de pedidos y gestion de proveedores. Backend Django REST con autenticacion JWT + frontend React con Mantine UI.
 
 `Django REST` `React` `Zustand` `Mantine` `PostgreSQL`
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 [![Email](https://img.shields.io/badge/Email-dvuo%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:dvuo@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ortega-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manuel-alexander-ortega-qui%C3%B1ones-186ab7297/)
