@@ -2,7 +2,7 @@
 
 **Computer Civil Engineer** | Backend & AI Developer
 
-*Open to work - Temuco, Chile*
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-available-success?style=flat-square)](https://www.linkedin.com/in/manuel-alexander-ortega-qui%C3%B1ones-186ab7297/) — Temuco, Chile
 
 ---
 
@@ -105,7 +105,7 @@ Fullstack marketplace with product catalog, design customization, ordering syste
 
 **Ingeniero Civil Informatico** | Backend & AI Developer
 
-*Abierto a oportunidades laborales - Temuco, Chile*
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-available-success?style=flat-square)](https://www.linkedin.com/in/manuel-alexander-ortega-qui%C3%B1ones-186ab7297/) — Temuco, Chile
 
 ---
 
