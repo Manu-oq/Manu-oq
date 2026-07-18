@@ -30,8 +30,11 @@ PostgreSQL | PostGIS | OSRM | pgvector | SQLite | Redis
 ### Frontend
 React | Flutter | TypeScript | MUI | Tailwind CSS | Zustand | TanStack
 
+### Design & Architecture
+C4 Model | UML | ERD | BPMN | Design Patterns | Event-Driven Architecture | Clean Architecture
+
 ### DevOps & Tools
-Docker | Git | GitHub | WebSockets | Clean Architecture
+Docker | Git | GitHub | WebSockets
 
 ---
 
@@ -114,8 +117,11 @@ PostgreSQL | PostGIS | OSRM | pgvector | SQLite | Redis
 ### Frontend
 React | Flutter | TypeScript | MUI | Tailwind CSS | Zustand | TanStack
 
+### Diseno & Arquitectura
+Modelo C4 | UML | Diagramas ER | BPMN | Patrones de Diseno | Event-Driven Architecture | Clean Architecture
+
 ### DevOps & Herramientas
-Docker | Git | GitHub | WebSockets | Clean Architecture
+Docker | Git | GitHub | WebSockets
 
 ---
 
